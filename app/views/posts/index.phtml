@@ -1,0 +1,65 @@
+<?php
+/**
+ * @var \Phalcon\Mvc\View\Engine\Php $this
+ */
+?>
+
+<div class="page-header">
+    <h1>Search posts</h1>
+    <p><?php echo $this->tag->linkTo(["posts/new", "Create posts"]) ?></p>
+</div>
+
+<?php echo $this->getContent() ?>
+
+<?php echo $this->flash->output() ?>
+
+<form action="posts/search" class="form-horizontal" method="get">
+    <div class="form-group">
+    <label for="fieldId" class="col-sm-2 control-label">Id</label>
+    <div class="col-sm-10">
+        <?php echo $this->tag->textField(["id", "type" => "number", "class" => "form-control", "id" => "fieldId"]); ?>
+    </div>
+</div>
+
+<div class="form-group">
+    <label for="fieldTitle" class="col-sm-2 control-label">Title</label>
+    <div class="col-sm-10">
+        <?php echo $this->tag->textArea(["title", "cols" => 30, "rows" => 4, "class" => "form-control", "id" => "fieldTitle"]); ?>
+    </div>
+</div>
+
+<div class="form-group">
+    <label for="fieldBody" class="col-sm-2 control-label">Body</label>
+    <div class="col-sm-10">
+        <?php echo $this->tag->textArea(["body", "cols" => 30, "rows" => 4, "class" => "form-control", "id" => "fieldBody"]); ?>
+    </div>
+</div>
+
+<div class="form-group">
+    <label for="fieldExcerpt" class="col-sm-2 control-label">Excerpt</label>
+    <div class="col-sm-10">
+        <?php echo $this->tag->textArea(["excerpt", "cols" => 30, "rows" => 4, "class" => "form-control", "id" => "fieldExcerpt"]); ?>
+    </div>
+</div>
+
+<div class="form-group">
+    <label for="fieldCreatedAt" class="col-sm-2 control-label">Created</label>
+    <div class="col-sm-10">
+        <?php echo $this->tag->textField(["created_at", "size" => 30, "class" => "form-control", "id" => "fieldCreatedAt"]); ?>
+    </div>
+</div>
+
+<div class="form-group">
+    <label for="fieldUpdatedAt" class="col-sm-2 control-label">Updated</label>
+    <div class="col-sm-10">
+        <?php echo $this->tag->textField(["updated_at", "size" => 30, "class" => "form-control", "id" => "fieldUpdatedAt"]); ?>
+    </div>
+</div>
+
+
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+            <?php echo $this->tag->submitButton(["Search", "class" => "btn btn-default"]) ?>
+        </div>
+    </div>
+</form>

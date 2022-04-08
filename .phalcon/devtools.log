@@ -1,0 +1,33 @@
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] E_WARNING: Phalcon\Assets\Manager::output(css/webtools.css): failed to open stream: No such file or directory in /private/var/tmp/phalcon/volt/Web_Tools_Views_layouts_webtools.php on line 12
+Fri 8 05:28:57 TSM-AWAKE php: [warning] E_WARNING: Phalcon\Assets\Manager::output(js/webtools.js): failed to open stream: No such file or directory in /private/var/tmp/phalcon/volt/Web_Tools_Views_layouts_webtools.php on line 203
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] E_WARNING: Phalcon\Assets\Manager::output(css/webtools.css): failed to open stream: No such file or directory in /private/var/tmp/phalcon/volt/Web_Tools_Views_layouts_webtools.php on line 12
+Fri 8 05:28:57 TSM-AWAKE php: [warning] E_WARNING: Phalcon\Assets\Manager::output(js/webtools.js): failed to open stream: No such file or directory in /private/var/tmp/phalcon/volt/Web_Tools_Views_layouts_webtools.php on line 203
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] Unable to initialize Volt cache dir: /Users/awake/Sites/blog/cache/. Used temp path: /var/tmp//phalcon/volt
+Fri 8 05:28:57 TSM-AWAKE php: [warning] E_WARNING: Phalcon\Assets\Manager::output(css/webtools.css): failed to open stream: No such file or directory in /private/var/tmp/phalcon/volt/Web_Tools_Views_layouts_webtools.php on line 12
+Fri 8 05:28:57 TSM-AWAKE php: [warning] E_WARNING: Phalcon\Assets\Manager::output(js/webtools.js): failed to open stream: No such file or directory in /private/var/tmp/phalcon/volt/Web_Tools_Views_layouts_webtools.php on line 203
